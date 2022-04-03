@@ -8,3 +8,4 @@ Saved in personal folder called "data"
 See the data documentation in the git folder "Documentation"
 
 
+Here is how to pull the repository in your local computer
