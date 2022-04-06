@@ -1,1 +1,9 @@
 This folder contains all information related to Base centrale scolarité in order to use the database. 
+
+To run the code:
+Set up your working environment in the following way: \\
+Create a folder "data" containing all 3 "eleves_XX" databases (XX = {17, 18, 19}) \\
+Create a master "Projet" folder where you put the previous "data" folder \\
+Add a "Git" folder in the "Projet" folder \\
+Install the git repository in the "Git" folder \\
+Then you should be able to run the code smoothly
